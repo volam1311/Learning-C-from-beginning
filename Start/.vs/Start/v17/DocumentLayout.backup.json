@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lam\\source\\repos\\Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48C62E-04CB-4700-85A5-799F14878D89}|Start\\Start.csproj|c:\\users\\lam\\source\\repos\\start\\start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48C62E-04CB-4700-85A5-799F14878D89}|Start\\Start.csproj|solutionrelative:start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48C62E-04CB-4700-85A5-799F14878D89}|Start\\Start.csproj|c:\\users\\lam\\source\\repos\\start\\start\\math\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48C62E-04CB-4700-85A5-799F14878D89}|Start\\Start.csproj|solutionrelative:start\\math\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48C62E-04CB-4700-85A5-799F14878D89}|Start\\Start.csproj|c:\\users\\lam\\source\\repos\\start\\start\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48C62E-04CB-4700-85A5-799F14878D89}|Start\\Start.csproj|solutionrelative:start\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\Start\\Start\\Program.cs",
+              "RelativeDocumentMoniker": "Start\\Program.cs",
+              "ToolTip": "C:\\Users\\Lam\\source\\repos\\Start\\Start\\Program.cs",
+              "RelativeToolTip": "Start\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:09:50.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\Start\\Start\\Math\\Calculator.cs",
+              "RelativeDocumentMoniker": "Start\\Math\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Lam\\source\\repos\\Start\\Start\\Math\\Calculator.cs",
+              "RelativeToolTip": "Start\\Math\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:08:53.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\Start\\Start\\Person.cs",
+              "RelativeDocumentMoniker": "Start\\Person.cs",
+              "ToolTip": "C:\\Users\\Lam\\source\\repos\\Start\\Start\\Person.cs",
+              "RelativeToolTip": "Start\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T23:57:07.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

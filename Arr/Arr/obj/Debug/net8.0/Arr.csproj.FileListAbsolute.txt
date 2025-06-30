@@ -1,0 +1,15 @@
+C:\Users\Lam\source\repos\Arr\Arr\bin\Debug\net8.0\Arr.exe
+C:\Users\Lam\source\repos\Arr\Arr\bin\Debug\net8.0\Arr.deps.json
+C:\Users\Lam\source\repos\Arr\Arr\bin\Debug\net8.0\Arr.runtimeconfig.json
+C:\Users\Lam\source\repos\Arr\Arr\bin\Debug\net8.0\Arr.dll
+C:\Users\Lam\source\repos\Arr\Arr\bin\Debug\net8.0\Arr.pdb
+C:\Users\Lam\source\repos\Arr\Arr\obj\Debug\net8.0\Arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lam\source\repos\Arr\Arr\obj\Debug\net8.0\Arr.AssemblyInfoInputs.cache
+C:\Users\Lam\source\repos\Arr\Arr\obj\Debug\net8.0\Arr.AssemblyInfo.cs
+C:\Users\Lam\source\repos\Arr\Arr\obj\Debug\net8.0\Arr.csproj.CoreCompileInputs.cache
+C:\Users\Lam\source\repos\Arr\Arr\obj\Debug\net8.0\Arr.sourcelink.json
+C:\Users\Lam\source\repos\Arr\Arr\obj\Debug\net8.0\Arr.dll
+C:\Users\Lam\source\repos\Arr\Arr\obj\Debug\net8.0\refint\Arr.dll
+C:\Users\Lam\source\repos\Arr\Arr\obj\Debug\net8.0\Arr.pdb
+C:\Users\Lam\source\repos\Arr\Arr\obj\Debug\net8.0\Arr.genruntimeconfig.cache
+C:\Users\Lam\source\repos\Arr\Arr\obj\Debug\net8.0\ref\Arr.dll

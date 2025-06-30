@@ -1,0 +1,15 @@
+C:\Users\Lam\source\repos\datetimedt\datetimedt\bin\Debug\net8.0\datetimedt.exe
+C:\Users\Lam\source\repos\datetimedt\datetimedt\bin\Debug\net8.0\datetimedt.deps.json
+C:\Users\Lam\source\repos\datetimedt\datetimedt\bin\Debug\net8.0\datetimedt.runtimeconfig.json
+C:\Users\Lam\source\repos\datetimedt\datetimedt\bin\Debug\net8.0\datetimedt.dll
+C:\Users\Lam\source\repos\datetimedt\datetimedt\bin\Debug\net8.0\datetimedt.pdb
+C:\Users\Lam\source\repos\datetimedt\datetimedt\obj\Debug\net8.0\datetimedt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lam\source\repos\datetimedt\datetimedt\obj\Debug\net8.0\datetimedt.AssemblyInfoInputs.cache
+C:\Users\Lam\source\repos\datetimedt\datetimedt\obj\Debug\net8.0\datetimedt.AssemblyInfo.cs
+C:\Users\Lam\source\repos\datetimedt\datetimedt\obj\Debug\net8.0\datetimedt.csproj.CoreCompileInputs.cache
+C:\Users\Lam\source\repos\datetimedt\datetimedt\obj\Debug\net8.0\datetimedt.sourcelink.json
+C:\Users\Lam\source\repos\datetimedt\datetimedt\obj\Debug\net8.0\datetimedt.dll
+C:\Users\Lam\source\repos\datetimedt\datetimedt\obj\Debug\net8.0\refint\datetimedt.dll
+C:\Users\Lam\source\repos\datetimedt\datetimedt\obj\Debug\net8.0\datetimedt.pdb
+C:\Users\Lam\source\repos\datetimedt\datetimedt\obj\Debug\net8.0\datetimedt.genruntimeconfig.cache
+C:\Users\Lam\source\repos\datetimedt\datetimedt\obj\Debug\net8.0\ref\datetimedt.dll
