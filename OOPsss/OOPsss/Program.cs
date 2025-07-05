@@ -47,9 +47,12 @@ namespace OPPsss
             Console.WriteLine(pierson.GetBirthDate());
 
             // Properties
-            var pierson_1 = new Pierson_1();
-            pierson_1.Birthdate = new DateTime(2006, 11, 13);
-            Console.WriteLine(pierson_1.Age);
+            ////var pierson_1 = new Pierson_1();
+            ////pierson_1.Birthdate = new DateTime(2006, 11, 13);
+            //Console.WriteLine(pierson_1.Age);
+            var cookie = new Httpcookies();
+            cookie["name"] = "Lam";
+            Console.WriteLine(cookie["name"]);
         }
         static void UsePoints()
         {

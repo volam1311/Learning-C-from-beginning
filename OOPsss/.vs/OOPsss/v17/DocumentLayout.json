@@ -1,38 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lam\\source\\repos\\OOPsss\\",
+  "WorkspaceRootPath": "C:\\Users\\Lam\\Documents\\C# learning\\OOPsss\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|c:\\users\\lam\\source\\repos\\oopsss\\oopsss\\pierson_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|solutionrelative:oopsss\\pierson_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|c:\\users\\lam\\documents\\c# learning\\oopsss\\oopsss\\httpcookies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|solutionrelative:oopsss\\httpcookies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|c:\\users\\lam\\source\\repos\\oopsss\\oopsss\\pierson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|solutionrelative:oopsss\\pierson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|c:\\users\\lam\\source\\repos\\oopsss\\oopsss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|c:\\users\\lam\\documents\\c# learning\\oopsss\\oopsss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|solutionrelative:oopsss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|c:\\users\\lam\\source\\repos\\oopsss\\oopsss\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|solutionrelative:oopsss\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|c:\\users\\lam\\source\\repos\\oopsss\\oopsss\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|solutionrelative:oopsss\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|c:\\users\\lam\\source\\repos\\oopsss\\oopsss\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|solutionrelative:oopsss\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|c:\\users\\lam\\source\\repos\\oopsss\\oopsss\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|solutionrelative:oopsss\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|c:\\users\\lam\\source\\repos\\oopsss\\oopsss\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8345FD5-3997-415D-B378-E28699226209}|OOPsss\\OOPsss.csproj|solutionrelative:oopsss\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pierson_1.cs",
-              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Pierson_1.cs",
-              "RelativeDocumentMoniker": "OOPsss\\Pierson_1.cs",
-              "ToolTip": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Pierson_1.cs",
-              "RelativeToolTip": "OOPsss\\Pierson_1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:33:29.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pierson.cs",
-              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Pierson.cs",
-              "RelativeDocumentMoniker": "OOPsss\\Pierson.cs",
-              "ToolTip": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Pierson.cs",
-              "RelativeToolTip": "OOPsss\\Pierson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:18:24.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Calculator.cs",
-              "RelativeDocumentMoniker": "OOPsss\\Calculator.cs",
-              "ToolTip": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Calculator.cs",
-              "RelativeToolTip": "OOPsss\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T01:20:48.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Point.cs",
-              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Point.cs",
-              "RelativeDocumentMoniker": "OOPsss\\Point.cs",
-              "ToolTip": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Point.cs",
-              "RelativeToolTip": "OOPsss\\Point.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T00:54:54.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lam\\Documents\\C# learning\\OOPsss\\OOPsss\\Program.cs",
               "RelativeDocumentMoniker": "OOPsss\\Program.cs",
-              "ToolTip": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Program.cs",
+              "ToolTip": "C:\\Users\\Lam\\Documents\\C# learning\\OOPsss\\OOPsss\\Program.cs",
               "RelativeToolTip": "OOPsss\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDIAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T04:38:29.342Z",
+              "WhenOpened": "2025-07-04T05:58:03.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Person.cs",
-              "RelativeDocumentMoniker": "OOPsss\\Person.cs",
-              "ToolTip": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Person.cs",
-              "RelativeToolTip": "OOPsss\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Httpcookies.cs",
+              "DocumentMoniker": "C:\\Users\\Lam\\Documents\\C# learning\\OOPsss\\OOPsss\\Httpcookies.cs",
+              "RelativeDocumentMoniker": "OOPsss\\Httpcookies.cs",
+              "ToolTip": "C:\\Users\\Lam\\Documents\\C# learning\\OOPsss\\OOPsss\\Httpcookies.cs",
+              "RelativeToolTip": "OOPsss\\Httpcookies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T00:32:11.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Order.cs",
-              "RelativeDocumentMoniker": "OOPsss\\Order.cs",
-              "ToolTip": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Order.cs",
-              "RelativeToolTip": "OOPsss\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T05:21:37.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Customer.cs",
-              "RelativeDocumentMoniker": "OOPsss\\Customer.cs",
-              "ToolTip": "C:\\Users\\Lam\\source\\repos\\OOPsss\\OOPsss\\Customer.cs",
-              "RelativeToolTip": "OOPsss\\Customer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T05:08:05.322Z",
+              "WhenOpened": "2025-07-04T05:54:55.167Z",
               "EditorCaption": ""
             }
           ]
