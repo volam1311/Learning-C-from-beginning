@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lam\\Documents\\C# learning\\Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D334C-BA11-46D7-878E-6EFB139E5689}|Polymorphism\\Polymorphism.csproj|c:\\users\\lam\\documents\\c# learning\\polymorphism\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1D334C-BA11-46D7-878E-6EFB139E5689}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D334C-BA11-46D7-878E-6EFB139E5689}|Polymorphism\\Polymorphism.csproj|c:\\users\\lam\\documents\\c# learning\\polymorphism\\polymorphism\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1D334C-BA11-46D7-878E-6EFB139E5689}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D334C-BA11-46D7-878E-6EFB139E5689}|Polymorphism\\Polymorphism.csproj|c:\\users\\lam\\documents\\c# learning\\polymorphism\\polymorphism\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1D334C-BA11-46D7-878E-6EFB139E5689}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D334C-BA11-46D7-878E-6EFB139E5689}|Polymorphism\\Polymorphism.csproj|c:\\users\\lam\\documents\\c# learning\\polymorphism\\polymorphism\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1D334C-BA11-46D7-878E-6EFB139E5689}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Lam\\Documents\\C# learning\\Polymorphism\\Polymorphism\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Lam\\Documents\\C# learning\\Polymorphism\\Polymorphism\\Rectangle.cs",
+              "RelativeToolTip": "Polymorphism\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T23:31:32.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Lam\\Documents\\C# learning\\Polymorphism\\Polymorphism\\Circle.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Circle.cs",
+              "ToolTip": "C:\\Users\\Lam\\Documents\\C# learning\\Polymorphism\\Polymorphism\\Circle.cs",
+              "RelativeToolTip": "Polymorphism\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T23:26:49.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Lam\\Documents\\C# learning\\Polymorphism\\Polymorphism\\Shape.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Shape.cs",
+              "ToolTip": "C:\\Users\\Lam\\Documents\\C# learning\\Polymorphism\\Polymorphism\\Shape.cs",
+              "RelativeToolTip": "Polymorphism\\Shape.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T23:17:55.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lam\\Documents\\C# learning\\Polymorphism\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\Lam\\Documents\\C# learning\\Polymorphism\\Polymorphism\\Program.cs*",
+              "RelativeToolTip": "Polymorphism\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T23:13:49.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
